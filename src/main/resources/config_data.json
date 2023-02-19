@@ -1,0 +1,7 @@
+{
+"browser_name": "chrome",
+"incognito_mode":"true",
+"full_screen":"true",
+"base_url": "https://demoqa.com/",
+"wait_timeout_seconds": "6"
+}
